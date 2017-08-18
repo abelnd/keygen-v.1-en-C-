@@ -1,4 +1,4 @@
-#include <string>//nesecitaremos esta libreria para usar los metodos para la string
+#include <iostream>
 #include <string>//nesecitaremos esta libreria para usar los metodos para la string
 
 using namespace std;
